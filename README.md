@@ -10,4 +10,10 @@ Busco adquirir conocimiento en diversos campos relacionados con mi carrera, con 
 ## 💻🔬Espero que realizar el servicio social en el laboratorio de medicina computacional me permita integrar mis conocimientos en ingeniería bioquímica con herramientas computacionales, además de fortalecer las habilidades de investigación, pensamiento crítico y trabajo en equipo. 
 Me entusiasma desarrollarme en un área poco explorada dentro de mi entorno local, dado que representa una oportunidad para ampliar mis competencias y obtener un perfil profesional más integral.
 ---
+# 📧Contacto
+
+## Correo personal: silviamendezvarela@gmail.com
+
+## Correo institucional: L21310628@lapaz.tecnm.mx
+---
 **Fecha de inicio: 23 febrero del 2026**
