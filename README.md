@@ -17,3 +17,5 @@ Me entusiasma desarrollarme en un área poco explorada dentro de mi entorno loca
 ## Correo institucional: L21310628@lapaz.tecnm.mx
 ---
 **Fecha de inicio: 23 febrero del 2026**
+---
+💻🔬💻🔬💻🔬
