@@ -1,6 +1,8 @@
 # Bit-cora-de-laboratorio-Silvia
 En este repositorio se estarán registrando las actividades del servicio social con el laboratorio de medicina computacional.
 ---
+Hola, ¡bienvenidos!
+---
 P R E S E N T A C I Ó N :)
 # 👩‍🔬Silvia Evangelina Mendez Varela, 22 años. 
 * **Estudiante de la carrera Ingeniería Bioquímica en el Instituto Tecnológico de La Paz, actualmente cursando el 10mo semestre y realizando servicio social en medicina computacional.**
