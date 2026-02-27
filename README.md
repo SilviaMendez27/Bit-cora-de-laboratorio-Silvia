@@ -10,6 +10,9 @@ P R E S E N T A C I Ó N :)
 
 Busco adquirir conocimiento en diversos campos relacionados con mi carrera, con la finalidad de contribuir a mi crecimiento académico y profesional🧬.
 ---
+Ú L T I M O    P R O Y E C T O
+Actividad celulolítica
+![alt text](IMG_4510.JPG)
 O B J E T I V O   S E R V I C I O :)
 ## 💻🔬Espero que realizar el servicio social en el laboratorio de medicina computacional me permita integrar mis conocimientos en ingeniería bioquímica con herramientas computacionales, además de fortalecer las habilidades de investigación, pensamiento crítico y trabajo en equipo. 
 🌱Me entusiasma desarrollarme en un área poco explorada dentro de mi entorno local, dado que representa una oportunidad para ampliar mis competencias y obtener un perfil profesional más integral.
