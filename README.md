@@ -21,5 +21,6 @@ C O R R E O S :)
 ## Correo institucional: L21310628@lapaz.tecnm.mx
 ---
 **Fecha de inicio: 23 febrero del 2026**
+**Duración: 480horas, máximo 500horas**
 ---
 💻🔬💻🔬💻🔬
