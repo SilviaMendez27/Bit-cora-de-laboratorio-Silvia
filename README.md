@@ -18,4 +18,4 @@ Me entusiasma desarrollarme en un área poco explorada dentro de mi entorno loca
 ---
 **Fecha de inicio: 23 febrero del 2026**
 ---
-💻🔬💻🔬💻🔬hola
+💻🔬💻🔬💻🔬
