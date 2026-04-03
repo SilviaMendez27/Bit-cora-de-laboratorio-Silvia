@@ -1,7 +1,0 @@
-git init
-git add README.md
-git commit -m 'DICOM'
-git branch -M main
-git remote add origin (https://github.com/Medicina-Computacional/Segmentaci-n-de-im-genes-en-Modelos-2D-y-3D.git)
-git push -u origin main
-
